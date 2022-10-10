@@ -59,7 +59,7 @@ USB4.0推出后我们可以看到，它没有3.1Gen1和3.2Gen1x1一样与3.0兼�
 
 usb公口
 
-<img src="\img\USB3.0接口.jpg" style="zoom:50%;" />
+<img src="img\USB3.0接口.jpg" style="zoom:50%;" />
 
 usb母口
 
@@ -94,7 +94,7 @@ USB公口的5~9脚是弹片形式，母口的5~9做成平面去贴合，见上�
 
 ## USB的拓扑结构
 
-<img src="\img\USB拓扑结构.jpg" style="zoom: 150%;" />
+<img src="img\USB拓扑结构.jpg" style="zoom: 150%;" />
 
 从上图我们可以得出如下信息：
 
