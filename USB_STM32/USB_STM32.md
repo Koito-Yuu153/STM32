@@ -33,7 +33,7 @@
 
 ## USB版本更迭
 
-![](img\USB版本更迭.jpg)
+<img src="img\USB版本更迭.jpg" style="zoom:80%;" />
 
 USB从1.0~2.0为止一直在提升速度，1.0是Low Speed，1.1是Full Speed，目前大部分的键盘鼠标都跑在Full Speed，因为速度已经非常够用了。2.0是High Speed。
 
@@ -51,7 +51,7 @@ USB4.0推出后我们可以看到，它没有3.1Gen1和3.2Gen1x1一样与3.0兼�
 
 我们把实际相同的版本并在一起，3.0其实包含在3.1中，3.1又包含在3.2中，3.2与3.4相互独立，得到下图：
 
-![](img\USB版本更迭2.png)
+<img src="img\USB版本更迭2.png" style="zoom:80%;" />
 
 
 
